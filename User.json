@@ -1,0 +1,99 @@
+{
+  "User": [
+    {
+      "id" : 1,
+      "name" : "Scott Mccall",
+      "age" : "23",
+      "gender" : "Male"
+
+    },
+    {
+      "id": 2,
+      "name": "Stiles Stillnski",
+      "age": "22",
+      "gender": "Male"
+    },
+     {
+      "id": 3,
+      "name": "Bob Williams",
+      "age": "48",
+      "gender": "Male"
+    },
+     {
+      "id": 4,
+      "name": "Lydia Martin",
+      "age": "20",
+      "gender": "Female"
+    },
+     {
+      "id": 5,
+      "name": "Malia Hale",
+      "age": "21",
+      "gender": "Female"
+    },
+     {
+      "id": 6,
+      "name": "Mike Williams",
+      "age": "22",
+      "gender": "Male"
+    },
+     {
+      "id": 7,
+      "name": "Liam Livingstone",
+      "age": "17",
+      "gender": "Male"
+    },
+     {
+      "id": 8,
+      "name": "Mike Jhonson",
+      "age": "36",
+      "gender": "Male"
+    },
+     {
+      "id": 9,
+      "name": "Allison Argent",
+      "age": "22",
+      "gender": "Female"
+    },
+     {
+      "id": 10,
+      "name": "Alice Williams",
+      "age": "30",
+      "gender": "Female"
+    },
+     {
+      "id": 11,
+      "name": "Jhon Cena",
+      "age": "50",
+      "gender": "Male"
+    },
+     {
+      "id": 12,
+      "name": "Susan Chan",
+      "age": "21",
+      "gender": "Male"
+    },
+     {
+      "id": 13,
+      "name": "Rahul Kumar",
+      "age": "21",
+      "gender": "Male"
+    },
+     {
+      "id": 14,
+      "name": "Sujeet Kumar Mishra",
+      "age": "23",
+      "gender": "Male"
+    },
+     {
+      "id": 15,
+      "name": "Rishabh Shikari",
+      "age": "22",
+      "gender": "Male"
+    }
+
+
+
+
+  ]
+}
